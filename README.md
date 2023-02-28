@@ -12,3 +12,6 @@ About the Project :- https://anjali889.github.io/Meal_app/
 
 _____Installation____
 * Download the zip file and run on the Server...
+Build With
+🟠 HTML 🟠 CSS 🟠 Vanilla Javascript
+
